@@ -1,4 +1,4 @@
-# Perfil Profissional de Hyan Costa Schibelsky
+# Hyan Costa Schibelsky
 
 nome: Hyan Costa Schibelsky
 titulo: Desenvolvedor Full-Stack em Formação
