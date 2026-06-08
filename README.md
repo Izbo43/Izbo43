@@ -1,74 +1,187 @@
+<!--
+  README — Hyan Schibelsky
+  Inspirado em github.com/Glauedson
+-->
+
+<!-- BANNER -->
+<a href="https://github.com/Izbo43">
+  <img src="assets/senna-1.jpg" alt="Hyan Schibelsky — Cloud Engineer" style="width:100%; height:auto"/>
+</a>
+
+<!-- SENNA QUOTE -->
 <div align="center">
 
-# Hyan Costa Schibelsky 👋  
-Desenvolvedor Full-Stack em Formação
+</br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyan-schibelsky-595058316/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Izbo43)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyanbelsky@gmail.com)
+*"No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio-termo. Ou você faz uma coisa bem-feita ou não faz."*
+
+**Ayrton Senna**
 
 </div>
 
----
+<!-- STATS -->
+<div align="center">
 
-### 🌟 Sobre Mim  
-Sou um estudante apaixonado por tecnologia atualmente cursando **Análise e Desenvolvimento de Sistemas** na FATEC Campinas. Com formação técnica em Meio Ambiente e Química, trago uma perspectiva única para o desenvolvimento de software, buscando sempre unir diferentes áreas do conhecimento para criar soluções inovadoras.
+  <a href="https://github.com/Izbo43?tab=followers">
+    <img width="150px"
+        alt="Followers"
+        src="https://custom-icon-badges.demolab.com/github/followers/Izbo43?color=000000&labelColor=FF9900&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  </a>
+  <a href="https://github.com/Izbo43?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img width="120px"
+        alt="Stars"
+        src="https://custom-icon-badges.demolab.com/github/stars/Izbo43?color=000000&labelColor=FF9900&logoColor=ffffff&style=for-the-badge&logo=star&label=Stars" />
+  </a>
 
-*"Transformando linhas de código em soluções impactantes!"* 💡
+</div>
 
----
+</br>
 
-### 🛠️ Tech Stack
+<!-- WHO AM I -->
+<img src="assets/tux.gif" width=300 align="left">
 
-**Linguagens:**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
 
-**Front-end:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Who Am I?**
 
-**Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
-**Ferramentas & DevOps:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="justify">
 
-**Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+Cloud Engineer. Trabalho com **Kubernetes**, **Terraform**, **CI/CD** e **AWS** no Agibank.
 
----
+Crio conteúdo DevOps no **[@hyansky.devops](https://www.instagram.com/hyansky.devops/)** e desenvolvo projetos legais nas horas vagas. Fã de motorsport.
 
-### 📚 Formação Acadêmica
+**AWS Certified Cloud Practitioner** · Fatec Campinas · Próximo: SAA
 
-**🎓 Análise e Desenvolvimento de Sistemas**  
-2024 - Atual  
-FATEC Campinas - *Cursando*
+</div>
 
-**📘 Desenvolvimento de Sistemas**  
-2023 - 2024  
-ETEC Ferrucio Humberto Gazzetta - *Concluído*
+</br>
+</br>
 
-**🌱 Meio Ambiente**  
-2020 - 2023  
-ETEC Conselheiro Antônio Prado - *Concluído*
+<!-- LINKS -->
+<div align="center">
+  <strong>Vamos conversar?</strong>
+  </br>
+
+  <a href="https://www.linkedin.com/in/hyan-schibelsky" target="_blank">
+    <img width="110px"
+          src="https://img.shields.io/badge/LinkedIn-FF9900?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/hyansky.devops/" target="_blank">
+    <img width="130px"
+          src="https://img.shields.io/badge/Instagram-FF9900?style=for-the-badge&logo=instagram&logoColor=white"
+          alt="@hyansky.devops"/>
+  </a>
+  <a href="mailto:hyanbelsky@gmail.com" target="_blank">
+    <img width="97px"
+          src="https://img.shields.io/badge/Gmail-FF9900?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="Email"/>
+  </a>
+
+</div>
+
+</br>
+
+
+
+<!-- OUROBOROS -->
+<div align="center">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⣿⣿⣿⣿⣿⣷⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⡿⠿⢿⣿⣶⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠞⠋⠉⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣷⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⣾⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠉⠙⠻⢿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣶⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣷⣄⠀⠀⠀
+⠀⠀⣼⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣷⡀⠀⠀⠀⢀⣶⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣧⠀⠀
+⠀⣼⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣄⠀⠀⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣧⠀
+⢸⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⢂⣾⣿⣿⣿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡄
+⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡿⢡⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⡇
+⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣱⣿⣿⣿⡿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡇
+⢿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡟⣴⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡇
+⠸⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⠏⢸⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⠁
+⠀⢻⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⡿⠃⠀⠀⠹⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⠃⠀
+⠀⠀⠹⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⠟⠁⠀⠀⠀⠀⠈⢻⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⡿⠃⠀⠀
+⠀⠀⠀⠈⠻⣿⣿⣿⣿⣶⣤⣀⣀⠀⠀⠀⣀⣀⣤⣶⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣶⣤⣀⣀⠀⠀⠀⢀⣀⣤⣶⣿⣿⣿⣿⠟⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠿⠿⠿⠿⠿⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⢿⣿⣿⣿⠿⠿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+*Ouroboros — a serpente que devora a própria cauda.*
+
+*Presente no túmulo de Tutancâmon, na mitologia nórdica e na alquimia grega,*
+*cada cultura o usou para simbolizar algo diferente. Mas o núcleo permanece:*
+
+*um processo que, feito corretamente, leva ao renascimento e à melhoria.*
+*Feito incorretamente, leva à destruição.*
+
+*No DevOps, chamamos esse processo de pipeline.*
+
+</div>
+
+</br>
+
+<!-- CONTRIBUIÇÕES -->
+<div align="center">
+
+### Contribuições
+
+</div>
+
+</br>
+
+[![Hyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Izbo43&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF9900&bg_color=transparent&radius=16&area_color=FF9900&area=true&point=ffffff&line=FF9900&days=30&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/Izbo43)
+
+</br>
+
+<!-- STACK + STATS -->
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<div align="center">
+
+### Stack
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,gitlab,jenkins,github" /><br><br>
+
+**Linguagens & Scripting**
+
+<img src="https://skillicons.dev/icons?i=bash,python,linux" /><br><br>
+
+**Outros que já usei**
+
+<img src="https://skillicons.dev/icons?i=git,mysql,postgres,html,css,js,java" /><br>
+
+</div>
+</td>
+<td valign="top" width="50%">
+<div align="center">
+
+### Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Izbo43&theme=dark&background=0D1117&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=FF9900&dates=FFFFFF&hide_border=true)](https://github.com/Izbo43)
+
+### Certificações
+
+[![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/3c8bb3ed-1cc0-4f24-b7ca-9ab25144c7bd/linked_in_profile)
+
+[![Kubernetes](https://img.shields.io/badge/Uncomplicating_Kubernetes-LINUXtips-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credential.net/6362ec39-f60a-4593-b592-3a6a6b63c8b9)
+
+[![Docker](https://img.shields.io/badge/Uncomplicating_Docker-LINUXtips-FF9900?style=for-the-badge&logo=docker&logoColor=white)](https://www.credential.net/60bdb573-2398-417e-92e4-ac1f092b177c)
+
+</div>
+</td>
+</tr>
+</table>
+
+</br>
+
+
 
 ---
 
 <div align="center">
-
-### 📬 Vamos Conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyan-schibelsky-595058316/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Izbo43)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hyanbelsky@gmail.com)
-
+  <sub>Feito com muito <code>kubectl apply</code></sub>
 </div>
