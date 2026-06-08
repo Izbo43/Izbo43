@@ -38,15 +38,14 @@
 </br>
 
 <!-- WHO AM I -->
-<img src="assets/tux.gif" width=240 align="left">
-
-<div align="center">
+<table>
+<tr>
+<td width="240px">
+<img src="assets/tux.gif" width="220"/>
+</td>
+<td>
 
 **Who Am I?**
-
-</div>
-
-<div align="justify">
 
 Cloud Engineer. Trabalho com **Kubernetes**, **Terraform**, **CI/CD** e **AWS** no Agibank.
 
@@ -54,10 +53,9 @@ Crio conteúdo DevOps no **[@hyansky.devops](https://www.instagram.com/hyansky.d
 
 **AWS Certified Cloud Practitioner** · Fatec Campinas · Próximo: SAA
 
-</div>
-
-<br clear="left"/>
-</br>
+</td>
+</tr>
+</table>
 
 <!-- LINKS -->
 <div align="center">
